@@ -1,0 +1,39 @@
+{
+  "entry": "server.js",
+  "files": {
+    "pages/about/aboutUs/index.js": "pages/about/aboutUs/index.js",
+    "pages/about/contactUs/index.js": "pages/about/contactUs/index.js",
+    "pages/about/index.js": "pages/about/index.js",
+    "pages/about/location/index.js": "pages/about/location/index.js",
+    "pages/about/semesterLongProgram/index.js": "pages/about/semesterLongProgram/index.js",
+    "pages/about/staff/index.js": "pages/about/staff/index.js",
+    "pages/announcements/_id/index.js": "pages/announcements/_id/index.js",
+    "pages/announcements/index.js": "pages/announcements/index.js",
+    "pages/events/_id/index.js": "pages/events/_id/index.js",
+    "pages/events/index.js": "pages/events/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/insta.js": "pages/insta.js",
+    "pages/test.js": "pages/test.js",
+    "pages/test1.js": "pages/test1.js",
+    "pages/tutoring/index.js": "pages/tutoring/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "pages/about/aboutUs/index.js": "pages/about/aboutUs/index.js.map",
+    "pages/about/contactUs/index.js": "pages/about/contactUs/index.js.map",
+    "pages/about/index.js": "pages/about/index.js.map",
+    "pages/about/location/index.js": "pages/about/location/index.js.map",
+    "pages/about/semesterLongProgram/index.js": "pages/about/semesterLongProgram/index.js.map",
+    "pages/about/staff/index.js": "pages/about/staff/index.js.map",
+    "pages/announcements/_id/index.js": "pages/announcements/_id/index.js.map",
+    "pages/announcements/index.js": "pages/announcements/index.js.map",
+    "pages/events/_id/index.js": "pages/events/_id/index.js.map",
+    "pages/events/index.js": "pages/events/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/insta.js": "pages/insta.js.map",
+    "pages/test.js": "pages/test.js.map",
+    "pages/test1.js": "pages/test1.js.map",
+    "pages/tutoring/index.js": "pages/tutoring/index.js.map",
+    "server.js": "server.js.map"
+  }
+}

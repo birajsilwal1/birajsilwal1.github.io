@@ -1,0 +1,107 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/about/index.vue",
+    "chunkName": "pages/about/index",
+    "_name": "_698134ca"
+  },
+  {
+    "name": "announcements",
+    "path": "/announcements",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/announcements/index.vue",
+    "chunkName": "pages/announcements/index",
+    "_name": "_6df52f4c"
+  },
+  {
+    "name": "events",
+    "path": "/events",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/events/index.vue",
+    "chunkName": "pages/events/index",
+    "_name": "_47e987be"
+  },
+  {
+    "name": "insta",
+    "path": "/insta",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/insta.vue",
+    "chunkName": "pages/insta",
+    "_name": "_58100d34"
+  },
+  {
+    "name": "test",
+    "path": "/test",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/test.vue",
+    "chunkName": "pages/test",
+    "_name": "_cdd9cb52"
+  },
+  {
+    "name": "test1",
+    "path": "/test1",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/test1.vue",
+    "chunkName": "pages/test1",
+    "_name": "_ed4c7b2c"
+  },
+  {
+    "name": "tutoring",
+    "path": "/tutoring",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/tutoring/index.vue",
+    "chunkName": "pages/tutoring/index",
+    "_name": "_1b9304f4"
+  },
+  {
+    "name": "about-aboutUs",
+    "path": "/about/aboutUs",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/about/aboutUs/index.vue",
+    "chunkName": "pages/about/aboutUs/index",
+    "_name": "_08a652d2"
+  },
+  {
+    "name": "about-contactUs",
+    "path": "/about/contactUs",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/about/contactUs/index.vue",
+    "chunkName": "pages/about/contactUs/index",
+    "_name": "_6503ca6a"
+  },
+  {
+    "name": "about-location",
+    "path": "/about/location",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/about/location/index.vue",
+    "chunkName": "pages/about/location/index",
+    "_name": "_1407ec7f"
+  },
+  {
+    "name": "about-semesterLongProgram",
+    "path": "/about/semesterLongProgram",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/about/semesterLongProgram/index.vue",
+    "chunkName": "pages/about/semesterLongProgram/index",
+    "_name": "_0354e3dc"
+  },
+  {
+    "name": "about-staff",
+    "path": "/about/staff",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/about/staff/index.vue",
+    "chunkName": "pages/about/staff/index",
+    "_name": "_bb2a2728"
+  },
+  {
+    "name": "announcements-id",
+    "path": "/announcements/:id",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/announcements/_id/index.vue",
+    "chunkName": "pages/announcements/_id/index",
+    "_name": "_18427376"
+  },
+  {
+    "name": "events-id",
+    "path": "/events/:id",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/events/_id/index.vue",
+    "chunkName": "pages/events/_id/index",
+    "_name": "_b69142e8"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/home/venom/aaProjects/UNM_ESS_PROJECT/unmess/src/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_bbb42846"
+  }
+]
